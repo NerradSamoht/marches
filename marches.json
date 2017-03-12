@@ -1,0 +1,695 @@
+[
+    {
+        "country": "Australia",
+        "city": "Adelaide",
+        "facebookPage": "https://www.facebook.com/MarchforScienceAdelaide/",
+        "twitter": "https://twitter.com/SciRallyAdel",
+        "latitude": -34.9284989,
+        "longitude": 138.6007456
+    },
+    {
+        "country": "Australia",
+        "city": "Adelaide",
+        "facebookPage": "https://www.facebook.com/groups/RallyforScienceAdelaide/",
+        "twitter": "https://twitter.com/SciRallyAdel",
+        "website": "https://marchforscienceaustralia.org/",
+        "latitude": -34.9284989,
+        "longitude": 138.6007456
+    },
+    {
+        "country": "Australia",
+        "city": "Brisbane",
+        "facebookPage": "https://www.facebook.com/sciencemarchbne/",
+        "twitter": "https://twitter.com/ScienceMarchBNE",
+        "website": "https://marchforscienceaustralia.org/",
+        "latitude": -27.4697707,
+        "longitude": 153.0251235
+    },
+    {
+        "country": "Australia",
+        "city": "Canberra",
+        "facebookPage": "https://www.facebook.com/ScienceMarchCBR/",
+        "twitter": "https://twitter.com/ScienceMarchCBR",
+        "website": "www.marchforsciencecanberra.org",
+        "latitude": -35.2809368,
+        "longitude": 149.1300092
+    },
+    {
+        "country": "Australia",
+        "city": "Hobart",
+        "facebookPage": "https://www.facebook.com/MarchforScienceHobart",
+        "twitter": "https://twitter.com/ScienceMarchHbt",
+        "website": "https://marchforscienceaustralia.org/",
+        "latitude": -42.8821377,
+        "longitude": 147.3271949
+    },
+    {
+        "country": "Australia",
+        "city": "Launceston",
+        "facebookPage": "https://www.facebook.com/MarchforScienceLaunceston/",
+        "twitter": "https://twitter.com/SciMarchLton",
+        "website": "http://marchforsciencelaunceston.org",
+        "latitude": -41.4332215,
+        "longitude": 147.1440875
+    },
+    {
+        "country": "Australia",
+        "city": "Melbourne",
+        "facebookEvent": "https://www.facebook.com/events/602032806659892/",
+        "facebookPage": "https://www.facebook.com/ScienceMarchMelb/",
+        "twitter": "https://twitter.com/ScienceMarchMel",
+        "website": "https://marchforscienceaustralia.org/",
+        "latitude": -37.813611,
+        "longitude": 144.963056
+    },
+    {
+        "country": "Australia",
+        "city": "Perth",
+        "facebookPage": "https://www.facebook.com/MarchForSciencePerthWA",
+        "twitter": "https://twitter.com/SciMarchPerth",
+        "website": "https://marchforscienceaustralia.org/",
+        "latitude": -31.9505269,
+        "longitude": 115.8604572
+    },
+    {
+        "country": "Australia",
+        "city": "Sydney",
+        "facebookEvent": "https://www.facebook.com/events/1555821671114613/",
+        "facebookPage": "https://www.facebook.com/MarchForScienceSydney/",
+        "twitter": "https://twitter.com/ScienceMarchSyd",
+        "website": "https://marchforscienceaustralia.org/",
+        "latitude": -33.8688197,
+        "longitude": 151.2092955
+    },
+    {
+        "country": "Australia",
+        "city": "Townsville",
+        "facebookPage": "https://www.facebook.com/MarchforScienceTSV/",
+        "twitter": "https://twitter.com/ScienceMarchTSV",
+        "website": "https://marchforsciencetownsville.org",
+        "latitude": -19.2589635,
+        "longitude": 146.8169483
+    },
+    {
+        "country": "Austria",
+        "city": "Vienna",
+        "facebookEvent": "https://www.facebook.com/events/756970731145533/",
+        "facebookPage": "https://www.facebook.com/ScienceMarchVienna/",
+        "twitter": "https://twitter.com/ScienceMarchVie",
+        "latitude": 48.2081743,
+        "longitude": 16.3738189
+    },
+    {
+        "country": "Belgium",
+        "city": "Brussels",
+        "facebookPage": "https://www.facebook.com/MarchforScienceBE/",
+        "twitter": "https://twitter.com/sciencemarchbe",
+        "latitude": 50.8503463,
+        "longitude": 4.3517211
+    },
+    {
+        "country": "Brazil",
+        "city": "São Paulo",
+        "facebookEvent": "https://www.facebook.com/events/1898288730411991/",
+        "facebookPage": "https://www.facebook.com/marchapelacienciasp/",
+        "latitude": -23.5505199,
+        "longitude": -46.6333094
+    },
+    {
+        "country": "Canada",
+        "city": "Calgary",
+        "facebookEvent": "https://www.facebook.com/events/1208121152606676/",
+        "twitter": "https://twitter.com/ScienceMarchYYC",
+        "latitude": 51.0486151,
+        "longitude": -114.0708459
+    },
+    {
+        "country": "Canada",
+        "city": "Edmonton",
+        "facebookEvent": "https://www.facebook.com/events/270210346748301/",
+        "facebookPage": "https://www.facebook.com/ScienceMarchYeg/",
+        "twitter": "https://twitter.com/sciencemarchyeg",
+        "latitude": 53.544389,
+        "longitude": -113.4909267
+    },
+    {
+        "country": "Canada",
+        "city": "Halifax",
+        "facebookPage": "https://www.facebook.com/ScienceMarchHalifax/",
+        "twitter": "https://twitter.com/ScienceMarchHal",
+        "latitude": 44.6487635,
+        "longitude": -63.5752387
+    },
+    {
+        "country": "Canada",
+        "city": "Hamilton",
+        "facebookPage": "https://www.facebook.com/groups/158845814610062/",
+        "twitter": "https://twitter.com/SciMarchHamOnt",
+        "latitude": 43.2557206,
+        "longitude": -79.8711024
+    },
+    {
+        "country": "Canada",
+        "city": "Kingston",
+        "facebookPage": "https://www.facebook.com/M4SEastOntario/",
+        "twitter": "https://twitter.com/M4SEastOntario",
+        "latitude": 44.2311717,
+        "longitude": -76.4859544
+    },
+    {
+        "country": "Canada",
+        "city": "Montreal",
+        "facebookEvent": "https://www.facebook.com/events/211870622610829/",
+        "facebookPage": "https://www.facebook.com/March-for-ScienceMarche-pour-la-science-Montr%C3%A9al-260580704373363/",
+        "latitude": 45.5016889,
+        "longitude": -73.567256
+    },
+    {
+        "country": "Canada",
+        "city": "Ottawa",
+        "facebookEvent": "https://www.facebook.com/events/752580948227384/",
+        "twitter": "https://twitter.com/ScienceMarchOTT",
+        "website": "https://evidencefordemocracy.ca/science-march-canada",
+        "latitude": 45.4215296,
+        "longitude": -75.6971931
+    },
+    {
+        "country": "Canada",
+        "city": "Prince George",
+        "facebookPage": "https://www.facebook.com/groups/1237159903044092/",
+        "latitude": 53.9170641,
+        "longitude": -122.7496693
+    },
+    {
+        "country": "Canada",
+        "city": "Saskatoon",
+        "facebookEvent": "https://www.facebook.com/events/219512398517962/",
+        "latitude": 52.1332144,
+        "longitude": -106.6700458
+    },
+    {
+        "country": "Canada",
+        "city": "St.John's",
+        "facebookEvent": "https://www.facebook.com/events/413489308993206/",
+        "latitude": 47.5615096,
+        "longitude": -52.7125768
+    },
+    {
+        "country": "Canada",
+        "city": "Sudbury",
+        "facebookEvent": "https://www.facebook.com/events/1815117678749968/",
+        "twitter": "https://twitter.com/ScienceMarchSby",
+        "latitude": 46.522099,
+        "longitude": -80.9530353
+    },
+    {
+        "country": "Canada",
+        "city": "Toronto",
+        "facebookPage": "https://www.facebook.com/ScienceMarchTO/",
+        "twitter": "https://twitter.com/ScienceMarchTO",
+        "website": "https://sciencemarchto.ca/",
+        "latitude": 43.653226,
+        "longitude": -79.3831843
+    },
+    {
+        "country": "Canada",
+        "city": "Vancouver",
+        "facebookPage": "https://www.facebook.com/groups/2240587519498815/",
+        "twitter": "https://twitter.com/ScienceMarchYVR",
+        "latitude": 49.2827291,
+        "longitude": -123.1207375
+    },
+    {
+        "country": "Canada",
+        "city": "Victoria",
+        "twitter": "https://twitter.com/sciencemarchyyj",
+        "latitude": 48.4284207,
+        "longitude": -123.3656444
+    },
+    {
+        "country": "Canada",
+        "city": "Yarmouth",
+        "facebookEvent": "https://facebook.com/events/1636820413000160",
+        "latitude": 43.8374576,
+        "longitude": -66.117382
+    },
+    {
+        "country": "Chile",
+        "city": "Santiago",
+        "facebookPage": "https://www.facebook.com/ScienceMarchCL/?fref=ts",
+        "twitter": "https://twitter.com/ScienceMarchCL",
+        "website": "https://mpc.agucova.me/",
+        "latitude": -33.4488897,
+        "longitude": -70.6692655
+    },
+    {
+        "country": "China",
+        "city": "Hong Kong",
+        "facebookPage": "https://www.facebook.com/sciencemarchhk",
+        "twitter": "https://twitter.com/ScienceMarchHK",
+        "latitude": 22.396428,
+        "longitude": 114.109497
+    },
+    {
+        "country": "Costa Rica",
+        "city": "San Pedro",
+        "facebookEvent": "https://www.facebook.com/Marcha-de-la-Ciencia-2017-CR-1805057416482220/",
+        "facebookPage": "https://www.facebook.com/marcha.delaciencia",
+        "website": "http://websitebuilder102.website.com/March-of-Science-2017-Costa-Rica/",
+        "latitude": 9.9301517,
+        "longitude": -84.0511025
+    },
+    {
+        "country": "Croatia",
+        "city": "Zagreb",
+        "facebookPage": "https://www.facebook.com/marszaznanost/",
+        "twitter": "https://twitter.com/MarsZaZnanost",
+        "latitude": 45.8150108,
+        "longitude": 15.981919
+    },
+    {
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "facebookPage": "https://www.facebook.com/forvidenskab/",
+        "twitter": "https://twitter.com/ScienceMarchDK",
+        "latitude": 55.6760968,
+        "longitude": 12.5683371
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Bristol",
+        "facebookEvent": "https://www.facebook.com/events/1218872314869969/",
+        "twitter": "https://twitter.com/ScienceMarchBRS",
+        "latitude": 51.454513,
+        "longitude": -2.58791
+    },
+    {
+        "country": "United Kingdom",
+        "city": "London",
+        "facebookEvent": "https://www.facebook.com/events/1699660986990593/",
+        "facebookPage": "https://www.facebook.com/groups/380032399019822",
+        "twitter": "https://twitter.com/LDNsciencemarch",
+        "website": "https://sciencemarch.london",
+        "latitude": 51.5073509,
+        "longitude": -0.1277583
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Manchester",
+        "facebookPage": "https://www.facebook.com/groups/821340108005369/",
+        "twitter": "https://twitter.com/ScienceMarchMCR",
+        "latitude": 53.4807593,
+        "longitude": -2.2426305
+    },
+    {
+        "country": "Finland",
+        "city": "Helsinki",
+        "facebookEvent": "https://www.facebook.com/events/728814440621221/",
+        "facebookPage": "https://www.facebook.com/marchforsciencehelsinki/",
+        "twitter": "https://twitter.com/ScienceMarchFI",
+        "latitude": 60.1698557,
+        "longitude": 24.938379
+    },
+    {
+        "country": "France",
+        "city": "Bordeaux",
+        "facebookPage": "https://www.facebook.com/MarchForScienceBordeaux/",
+        "twitter": "https://twitter.com/ScienceMarchBdx",
+        "latitude": 44.837789,
+        "longitude": -0.57918
+    },
+    {
+        "country": "France",
+        "city": "Lille",
+        "facebookPage": "https://www.facebook.com/March-for-Science-Lille-1795045090745375/",
+        "twitter": "https://twitter.com/ScienceMarchLil",
+        "latitude": 50.62925,
+        "longitude": 3.057256
+    },
+    {
+        "country": "France",
+        "city": "Lyon",
+        "facebookEvent": "https://www.facebook.com/events/1864612240425658/",
+        "facebookPage": "https://www.facebook.com/marchforsciencelyon/",
+        "twitter": "https://twitter.com/ScienceMarchLy",
+        "latitude": 45.764043,
+        "longitude": 4.835659
+    },
+    {
+        "country": "France",
+        "city": "Marseille",
+        "facebookPage": "https://www.facebook.com/ScienceMarchMRS/",
+        "twitter": "https://twitter.com/ScienceMarchMRS",
+        "website": "http://marchepourlessciences.fr",
+        "latitude": 43.296482,
+        "longitude": 5.36978
+    },
+    {
+        "country": "France",
+        "city": "Montpellier",
+        "facebookPage": "https://www.facebook.com/marchforsciencemontpellier/?hc_ref=SEARCH",
+        "twitter": "https://twitter.com/ScienceMarchFR",
+        "latitude": 43.610769,
+        "longitude": 3.876716
+    },
+    {
+        "country": "France",
+        "city": "Paris",
+        "facebookPage": "https://www.facebook.com/MarchforScienceParis/",
+        "twitter": "https://twitter.com/ScienceMarchPar",
+        "latitude": 48.856614,
+        "longitude": 2.3522219
+    },
+    {
+        "country": "France",
+        "city": "Toulouse",
+        "facebookPage": "https://www.facebook.com/MarchforScienceToulouse/?hc_ref=SEARCH&fref=nf",
+        "twitter": "https://twitter.com/ScienceMarchFR",
+        "latitude": 43.604652,
+        "longitude": 1.444209
+    },
+    {
+        "country": "Germany",
+        "city": "Berlin",
+        "facebookPage": "https://www.facebook.com/March-for-Science-Berlin-1289905487725385/",
+        "twitter": "https://twitter.com/ScienceMarchBER",
+        "website": "https://sciencemarchger.wordpress.com/",
+        "latitude": 52.5200066,
+        "longitude": 13.404954
+    },
+    {
+        "country": "Germany",
+        "city": "Cologne",
+        "facebookEvent": "https://www.facebook.com/events/763844313767652/",
+        "twitter": "https://twitter.com/ScienceMarchK",
+        "latitude": 50.937531,
+        "longitude": 6.9602786
+    },
+    {
+        "country": "Germany",
+        "city": "Dresden",
+        "facebookPage": "https://www.facebook.com/ScienceMarchDD/",
+        "twitter": "https://twitter.com/ScienceMarchDD",
+        "website": "https://sciencemarchger.wordpress.com/",
+        "latitude": 51.0504088,
+        "longitude": 13.7372621
+    },
+    {
+        "country": "Germany",
+        "city": "Frankfurt",
+        "facebookPage": "https://www.facebook.com/ScienceMarch-Frankfurt-am-Main-210271869446186",
+        "twitter": "https://twitter.com/ScienceMarchFfm",
+        "website": "https://sciencemarchger.wordpress.com/",
+        "latitude": 50.1109221,
+        "longitude": 8.6821267
+    },
+    {
+        "country": "Germany",
+        "city": "Goettingen",
+        "facebookEvent": "https://www.facebook.com/events/731786610332042/",
+        "facebookPage": "https://www.facebook.com/ScienceMarchGoe/",
+        "website": "https://sciencemarchger.wordpress.com/",
+        "latitude": 51.5412804,
+        "longitude": 9.9158035
+    },
+    {
+        "country": "Germany",
+        "city": "Hamburg",
+        "facebookPage": "https://www.facebook.com/ScienceMarchHH",
+        "twitter": "https://twitter.com/ScienceMarchHH",
+        "website": "https://sciencemarchger.wordpress.com/",
+        "latitude": 53.5510846,
+        "longitude": 9.9936818
+    },
+    {
+        "country": "Germany",
+        "city": "Heidelberg",
+        "facebookPage": "https://www.facebook.com/ScienceMarchHD/",
+        "twitter": "https://twitter.com/ScienceMarchHD",
+        "website": "https://sciencemarchger.wordpress.com/",
+        "latitude": 49.3987524,
+        "longitude": 8.6724335
+    },
+    {
+        "country": "Germany",
+        "city": "Leipzig",
+        "facebookPage": "https://www.facebook.com/groups/380839395618168/",
+        "website": "https://sciencemarchger.wordpress.com/",
+        "latitude": 51.3396955,
+        "longitude": 12.3730747
+    },
+    {
+        "country": "Germany",
+        "city": "Munich",
+        "facebookPage": "https://www.facebook.com/ScienceMarchMUC/",
+        "twitter": "https://twitter.com/ScienceMarchMUC",
+        "website": "https://sciencemarchger.wordpress.com/",
+        "latitude": 48.1351253,
+        "longitude": 11.5819806
+    },
+    {
+        "country": "Germany",
+        "city": "Tuebingen",
+        "facebookEvent": "https://www.facebook.com/events/101934253665146/",
+        "facebookPage": "https://www.facebook.com/ScienceMarchTUE/?ref=page_internal",
+        "twitter": "https://twitter.com/ScienceMarchTUE",
+        "latitude": 48.5216364,
+        "longitude": 9.0576448
+    },
+    {
+        "country": "Greenland",
+        "city": "Kangerlussuaq",
+        "facebookEvent": "https://www.facebook.com/events/1267946313289228/",
+        "twitter": "https://twitter.com/SciMarGreenland",
+        "latitude": 67.0094782,
+        "longitude": -50.7211501
+    },
+    {
+        "country": "Ireland",
+        "city": "Dublin",
+        "facebookPage": "https://www.facebook.com/ScienceMarchIE/?hc_ref=SEARCH",
+        "twitter": "https://twitter.com/ScienceMarchIE",
+        "website": "https://sciencemarchie.wordpress.com/",
+        "latitude": 53.3498053,
+        "longitude": -6.2603097
+    },
+    {
+        "country": "Italy",
+        "city": "Rome",
+        "facebookEvent": "https://www.facebook.com/events/1123475907775289/",
+        "twitter": "https://twitter.com/ScienceMarchIT",
+        "latitude": 41.9027835,
+        "longitude": 12.4963655
+    },
+    {
+        "country": "Japan",
+        "city": "Tokyo",
+        "facebookPage": "https://www.facebook.com/groups/marchforsciencetokyo/",
+        "twitter": "https://twitter.com/SciMarchTokyo",
+        "latitude": 35.6894875,
+        "longitude": 139.6917064
+    },
+    {
+        "country": "Japan",
+        "city": "Tsukuba",
+        "facebookPage": "https://www.facebook.com/groups/marchforsciencetsukuba/",
+        "latitude": 36.0834857,
+        "longitude": 140.0766423
+    },
+    {
+        "country": "Mexico",
+        "city": "Mexico City",
+        "facebookPage": "https://www.facebook.com/March-for-Science-Mexico-Marcha-por-la-ciencia-M%C3%A9xico-2234410766785005/?hc_ref=SEARCH&fref=nf",
+        "twitter": "https://twitter.com/ScienceMarchMx",
+        "latitude": 19.4326077,
+        "longitude": -99.133208
+    },
+    {
+        "country": "Netherlands",
+        "city": "Amsterdam",
+        "facebookEvent": "https://www.facebook.com/events/1103742243069948??ti=ia",
+        "facebookPage": "https://facebook.com/ScienceMarchNL/",
+        "twitter": "https://twitter.com/ScienceMarchNL",
+        "instagram": "https://instagram.com/sciencemarchnl",
+        "website": "www.marchforscience.nl",
+        "latitude": 52.3702157,
+        "longitude": 4.8951679
+    },
+    {
+        "country": "New Zealand",
+        "city": "Auckland",
+        "facebookPage": "https://www.facebook.com/marchforscienceNZ/?hc_ref=SEARCH&fref=nf",
+        "twitter": "https://twitter.com/ScienceMarch_NZ",
+        "latitude": -36.8484597,
+        "longitude": 174.7633315
+    },
+    {
+        "country": "New Zealand",
+        "city": "Christchurch",
+        "facebookPage": "https://www.facebook.com/marchforsciencechch/?hc_ref=SEARCH&fref=nf",
+        "twitter": "https://twitter.com/MFSCHCH",
+        "latitude": -43.5320544,
+        "longitude": 172.6362254
+    },
+    {
+        "country": "Norway",
+        "city": "Bergen",
+        "facebookPage": "https://www.facebook.com/marchforsciencenorway/",
+        "twitter": "https://twitter.com/SciMarchNorway",
+        "instagram": "https://www.instagram.com/marchforsciencenorge",
+        "website": "http://marchforsciencenorway.com/",
+        "latitude": 60.3912628,
+        "longitude": 5.3220544
+    },
+    {
+        "country": "Norway",
+        "city": "Bodø",
+        "facebookPage": "https://www.facebook.com/marchforsciencenorway/",
+        "twitter": "https://twitter.com/SciMarchNorway",
+        "instagram": "https://www.instagram.com/marchforsciencenorge",
+        "website": "http://marchforsciencenorway.com/",
+        "latitude": 67.2803556,
+        "longitude": 14.404916
+    },
+    {
+        "country": "Norway",
+        "city": "Oslo",
+        "facebookEvent": "https://www.facebook.com/events/1837923606464780/",
+        "facebookPage": "https://www.facebook.com/marchforsciencenorway/",
+        "twitter": "https://twitter.com/SciMarchNorway",
+        "instagram": "https://www.instagram.com/marchforsciencenorge",
+        "website": "http://marchforsciencenorway.com/",
+        "latitude": 59.9138688,
+        "longitude": 10.7522454
+    },
+    {
+        "country": "Norway",
+        "city": "Tromso",
+        "facebookEvent": "https://www.facebook.com/events/829212017220302/",
+        "facebookPage": "https://www.facebook.com/marchforsciencenorway/",
+        "twitter": "https://twitter.com/SciMarchNorway",
+        "instagram": "https://www.instagram.com/marchforsciencenorge",
+        "website": "http://marchforsciencenorway.com/",
+        "latitude": 69.6492047,
+        "longitude": 18.9553238
+    },
+    {
+        "country": "Norway",
+        "city": "Trondheim",
+        "facebookEvent": "https://www.facebook.com/events/1852577668320738/",
+        "facebookPage": "https://www.facebook.com/marchforsciencenorway/",
+        "twitter": "https://twitter.com/SciMarchNorway",
+        "instagram": "https://www.instagram.com/marchforsciencenorge",
+        "website": "http://marchforsciencenorway.com/",
+        "latitude": 63.4305149,
+        "longitude": 10.3950528
+    },
+    {
+        "country": "Panama",
+        "city": "Panama City",
+        "facebookEvent": "https://www.facebook.com/events/1826537147595939/",
+        "twitter": "https://twitter.com/ScienceMarchPTY",
+        "latitude": 8.9823792,
+        "longitude": -79.5198696
+    },
+    {
+        "country": "Poland",
+        "city": "Warsaw",
+        "twitter": "https://twitter.com/ScienceMarchPL",
+        "latitude": 52.2296756,
+        "longitude": 21.0122287
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisboa",
+        "facebookEvent": "https://www.facebook.com/events/1844687295791516/",
+        "facebookPage": "https://www.facebook.com/MarchForSciencePortugal/",
+        "twitter": "https://www.twitter.com/ScienceMarchPT",
+        "website": "www.marchforscience.pt",
+        "latitude": 38.7222524,
+        "longitude": -9.1393366
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Edinburgh",
+        "facebookPage": "https://www.facebook.com/groups/March4scienceEdinburgh",
+        "twitter": "https://twitter.com/ScienceMarchEdi",
+        "website": "http://marchforscienceedinburgh.com/",
+        "latitude": 55.953252,
+        "longitude": -3.188267
+    },
+    {
+        "country": "Spain",
+        "city": "Girona",
+        "twitter": "https://twitter.com/GroMarch",
+        "website": "http://tinyletter.com/marchaporlaciencia",
+        "latitude": 41.9794005,
+        "longitude": 2.8214264
+    },
+    {
+        "country": "Sweden",
+        "city": "Gothenburg",
+        "facebookEvent": "https://www.facebook.com/events/725095677668276/",
+        "facebookPage": "https://www.facebook.com/marchforsciencegbg/",
+        "latitude": 57.70887,
+        "longitude": 11.97456
+    },
+    {
+        "country": "Sweden",
+        "city": "Gothenburg",
+        "facebookPage": "https://www.facebook.com/marchforsciencegbg/",
+        "latitude": 57.70887,
+        "longitude": 11.97456
+    },
+    {
+        "country": "Sweden",
+        "city": "Stockhlom",
+        "facebookPage": "https://www.facebook.com/marchforsciencestockholm/",
+        "twitter": "https://twitter.com/SciMarchSthlm",
+        "website": "https://angaho.wordpress.com/2017/01/31/join-us/",
+        "latitude": 59.3293235,
+        "longitude": 18.0685808
+    },
+    {
+        "country": "Switzerland",
+        "city": "Geneva",
+        "facebookPage": "https://www.facebook.com/marchforsciencegeneva/",
+        "twitter": "https://twitter.com/ScienceMarchGVA",
+        "website": "http://marchforsciencegeneva.org/",
+        "latitude": 46.2043907,
+        "longitude": 6.1431577
+    },
+    {
+        "country": "Switzerland",
+        "city": "Lausanne",
+        "twitter": "https://twitter.com/ScienceMarchCH",
+        "latitude": 46.5196535,
+        "longitude": 6.6322734
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "city": "Port of Spain",
+        "facebookEvent": "https://www.facebook.com/events/1834012063535431/",
+        "facebookPage": "https://www.facebook.com/msbiologytt",
+        "twitter": "https://twitter.com/MsBiologyTT",
+        "instagram": "https://instagram.com/justkeish17",
+        "latitude": 10.6617016,
+        "longitude": -61.5194431
+    },
+    {
+        "country": "Uganda",
+        "city": "Kampala",
+        "facebookEvent": "https://www.facebook.com/events/1853389851600033/",
+        "facebookPage": "https://www.facebook.com/allianceforscienceug/",
+        "latitude": 0.3475964,
+        "longitude": 32.5825197
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Cardiff",
+        "facebookPage": "https://www.facebook.com/MarchForScienceCDF",
+        "twitter": "https://twitter.com/ScienceMarchCDF",
+        "latitude": 51.481581,
+        "longitude": -3.17909
+    }
+]
